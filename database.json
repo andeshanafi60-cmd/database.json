@@ -1,1 +1,12 @@
 
+[
+  {
+    "type": "user_password",
+    "value": "NDES123"
+  },
+  {
+    "type": "whatsapp_number",
+    "number": "6287782791027",
+    "status": "active"
+  }
+]
